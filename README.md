@@ -1,8 +1,8 @@
-### Hi there, I'm Philip Löfgren 👋
+# Hi there, I'm Philip Löfgren 👋
 
 Front-end Developer - Caspeco, intern
 
-# Languages and tools
+## Languages and tools
 - React.JS
 - TypeScript
 - Javascript
@@ -15,13 +15,13 @@ Front-end Developer - Caspeco, intern
 - Shopify
 - Git
 - Figma
-- 
-# What I do for fun / hobbies
+
+## What I do for fun / hobbies
 - Programming 💻
 - Music 🎸
 - Working out
 
-# What am i up to?
+## What am i up to?
 
 🔭 I’m currently working on a youtube channel to teach people how to code. 
 
