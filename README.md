@@ -7,6 +7,7 @@
 - React.JS
 - TypeScript
 - Javascript
+- GraphQl
 - Redux
 - HTML5
 - CSS3
