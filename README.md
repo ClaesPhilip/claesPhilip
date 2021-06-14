@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**ClaesPhilip/claesPhilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer student at KYH Stockholm
+Languages and tools
+React.JS
+TypeScript
+Javascript
+Redux
+HTML5
+CSS3
+Firebase
+MongoDB
+Node.js & Express
+Shopify
+Git
+Figma
+What I do for fun / hobbies
+Programming 💻
+Music 🎸
+Working out
+What am i up to?
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a youtube channel to teach people how to code. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning the MERN stack, and Three.js
+
+📫 You can reach me at: claesphiliplofgren@hotmail.com
+
+🔍 Visit my portfolio at http://philiplofgrens.surge.sh/
