@@ -1,7 +1,7 @@
 # Hi there, I'm Philip Löfgren 👋
 
 Front-end Developer  
-Caspeco, intern
+Caspeco - intern
 
 ## Languages and tools
 - React.JS
