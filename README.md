@@ -1,6 +1,6 @@
 # Hi there, I'm Philip Löfgren 👋
 
-Front-end Developer 
+Front-end Developer  
 Caspeco, intern
 
 ## Languages and tools
