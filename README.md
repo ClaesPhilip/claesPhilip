@@ -9,6 +9,8 @@
 - Javascript
 - GraphQl
 - Redux
+- Sass
+- Less
 - HTML5
 - CSS3
 - Firebase
