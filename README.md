@@ -28,6 +28,7 @@
 ## What I do for fun / hobbies
 - Programming 💻
 - Music 🎸
+- Trading (Stock market)
 - Working out
 
 ## What am i up to?
