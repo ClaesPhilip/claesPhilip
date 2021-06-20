@@ -7,7 +7,7 @@
 - React.JS
 - TypeScript
 - Javascript
-- GraphQl
+- GraphQL
 - Redux
 - Sass
 - Less
