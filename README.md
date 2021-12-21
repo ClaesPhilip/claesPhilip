@@ -5,6 +5,7 @@
 
 ## Languages and tools
 - React.JS
+- Angular
 - TypeScript
 - Javascript
 - GraphQL
@@ -29,6 +30,7 @@
 - Programming 💻
 - Music 🎸
 - Trading (Stock market)
+- Crypto
 - Working out
 
 ## What am i up to?
